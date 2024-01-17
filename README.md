@@ -21,3 +21,6 @@ Pronouns: she/her
 I'm currently learning...
 
 My favourite UBC Courses are: CPSC 110, CHEM 233
+
+hope you're having fun!
+
