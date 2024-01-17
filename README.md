@@ -19,3 +19,4 @@ Hi! I'm Tracy, welcome to my GitHub page!
 Pronouns: she/her
 
 I'm currently learning...
+hope you're having fun!
