@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi! I'm Tracy (she/her), welcome to my GitHub page! I'm currently studying **Computer Science and Microbiology and Immunology** at the **University of British Columbia!** I love seeing how  technology can intertwine in biological systems, as they both rely on machinery and play an intrinsic role in our lives. 
 
-📖 I’m currently:
+📖 I’m currently: hosting a Version Control Workshop
 
 ### Languages
 
